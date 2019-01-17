@@ -1,4 +1,4 @@
 # footprint.github.io
 
-# mac quicklook: 
+## mac quicklook: 
 brew cask install qlstephen quicklook-json webpquicklook
