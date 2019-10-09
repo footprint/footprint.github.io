@@ -1,4 +1,4 @@
-# footprint.github.io
+## Lucky!
 
-## mac quicklook: 
-brew cask install qlstephen quicklook-json webpquicklook
+![Image of lucky dog](lucky.jpg)
+
